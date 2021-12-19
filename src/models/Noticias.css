@@ -1,0 +1,6 @@
+.noticias-container {
+	grid-area: newscontainer;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
